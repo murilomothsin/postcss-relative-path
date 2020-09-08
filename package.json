@@ -1,0 +1,27 @@
+{
+  "name": "postcss-relative-path",
+  "version": "1.0.0",
+  "description": "PostCSS plugin to remove relative paths from url",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murilomothsin/postcss-relative-path.git"
+  },
+  "keywords": [
+    "css",
+    "postcss",
+    "url"
+  ],
+  "author": "Murilo Mothsin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murilomothsin/postcss-relative-path/issues"
+  },
+  "homepage": "https://github.com/murilomothsin/postcss-relative-path#readme",
+  "dependencies": {
+    "postcss": "^7.0.32"
+  }
+}
